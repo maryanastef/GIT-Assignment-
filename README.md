@@ -7,5 +7,5 @@
 ## This is the first assignment 
 ## How are you? 
 
-# Hi Maryana, this is Samantha
+## Hi Maryana, this is Samantha
 ## I am well, how are you?
